@@ -3,6 +3,13 @@
 </h1>
 
 
+# Iski Bot
+
+Iski Bot by Team SPY.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/brucewaynepioneer/iski)
+
+
 Contact: [Telegram](https://t.me/devggn)
 
 ---
